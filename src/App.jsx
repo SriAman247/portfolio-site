@@ -587,7 +587,7 @@ export default function Portfolio() {
           <div className="contact-block">
             <div><span className="kw">INSERT INTO</span> contact (channel, value) <span className="kw">VALUES</span></div>
             <div className="row">
-              <span>&nbsp;&nbsp;('email', &nbsp;<span className="val">your.email@example.com</span>)</span>
+              <span>&nbsp;&nbsp;('email', &nbsp;<span className="val">amansr.24.7@gmail.com</span>)</span>
               <button className="copy-affordance" onClick={copyEmail}>
                 {copied ? <><Check size={12} /> copied</> : <><Copy size={12} /> copy</>}
               </button>
